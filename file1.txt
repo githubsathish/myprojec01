@@ -1,8 +1,0 @@
-hi this sathish creating file 1
-
-and commited to git hub
-<<<<<<< HEAD
-=======
-am adding 3rd line to this file 
->>>>>>> b1e15e09ea6546c951abd9fce1281eb3b3d69a91
-am adding fourth line
